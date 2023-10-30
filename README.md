@@ -14,7 +14,7 @@
 
 > Aula está sendo ótima! No entanto, se não se esforçar, não vai adiantar nada!
 
-# Tabela dos dados pessiais:
+# Tabela dos dados pessoais:
 
 | Nome | Sobrenome  | Curso | 
 |------|------|------|
